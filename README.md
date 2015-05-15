@@ -14,7 +14,7 @@ You can play with [online demo](http://demo-angelozerr.rhcloud.com/CodeMirror-Ja
 
 You can see demos in this git project with CodeMirror in  [demos/qunit.html](https://github.com/angelozerr/tern-qunit/blob/master/demos/qunit.html) :
 
-Here a screenshot with completion with CodeMorror QUnit completion :
+Here a screenshot with completion with CodeMirror QUnit completion :
  
 ![CodeMirror & Tern Qunit](https://github.com/angelozerr/tern-qunit/wiki/images/TernQUnitWithCodeMirror.png)
 
