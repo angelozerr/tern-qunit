@@ -1,6 +1,7 @@
 # tern-qunit
 
 [![Build Status](https://secure.travis-ci.org/angelozerr/tern-qunit.png)](http://travis-ci.org/angelozerr/tern-qunit)
+[![NPM version](https://img.shields.io/npm/v/tern-qunit.svg)](https://www.npmjs.org/package/tern-jqunit)
 
 [tern-qunit](https://github.com/angelozerr/tern-qunit) is a plugin which adds support for [qunit.js](http://qunitjs.com/) to the JavaSript code intelligence system [Tern](http://ternjs.net/).
 
