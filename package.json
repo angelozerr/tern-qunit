@@ -1,5 +1,5 @@
 {
-  "name": "qunit",
+  "name": "tern-qunit",
   "license": "MIT",
   "version": "0.1.0",
   "main": "qunit.js",
